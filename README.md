@@ -5,7 +5,7 @@
 This is a brief introduction to the hogs you'll see in Hogwarts, which you'll be more fully introduced to in mod 4 - Hogwarts: The React app for fans of prize-winning pigs.
 
 ## Project deliverables:
-* create an index displaying all hogs, and their attributes. you can create divs and give them the class hog-card to get some styling
+
 * since greased is a boolean, display that as a checkbox that is either checked if the hog is greased, or unchecked if not
 * create a form that will both post a new hog to the server, and render your fresh hog on the page
 * add delete buttons for each hog, which both removes them from the page, and instructs the server to delete that hog record
