@@ -16,7 +16,7 @@ This is a brief introduction to the hogs you'll see in Hogwarts, which you'll be
 * a file containing all our hog data
 * a folder of hog images
 * an index.html file complete with css, a non-functional form for new hogs, and a div meant to contain all the hogs
-
+ 
 ## How to start:
 
 In order to serve up our hogs, we'll be spinning up a json-server with this command: `json-server --watch hogs.json`.
